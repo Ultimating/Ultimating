@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Frameworks
-![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=white)
+![](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white)
 
 <!--
 **Ultimating/Ultimating** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
